@@ -1,9 +1,13 @@
 body{
-  background-color: lightskyblue;
+  background-color: limegreen;
 }
-h1{
+h4{
   color: darkred;
   font-size: 50px;
   text-align: center;
   font-family: monospace;
+}
+p{
+  font-family: cursive;
+  font-size: 20px;
 }
